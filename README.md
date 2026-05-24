@@ -21,3 +21,7 @@ Abre `index.html` directamente en tu navegador. No requiere servidor ni instalac
 - **Características** — tres tarjetas con los beneficios del producto
 - **Nosotros** — descripción del equipo
 - **Contacto** — formulario de contacto
+
+## Licencia
+
+MIT © 2026 Dreaming
